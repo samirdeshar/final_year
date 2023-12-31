@@ -1,0 +1,1 @@
+<a href="{{route('gallery.details', 'test')}}">Imag Detail</a>

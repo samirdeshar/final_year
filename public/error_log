@@ -1,0 +1,51 @@
+[29-Aug-2022 06:31:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/megaagge/beta.megaadventuresintl.com/vendor/composer/../../app/Utility/Helper.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php(61): composerRequireed162d28f549a3be381b893facaa417c('21022b855e1a543...', '/home4/megaagge...')
+#1 /home4/megaagge/beta.megaadventuresintl.com/vendor/autoload.php(7): ComposerAutoloaderInited162d28f549a3be381b893facaa417c::getLoader()
+#2 /home4/megaagge/beta.megaadventuresintl.com/public/index.php(34): require('/home4/megaagge...')
+#3 {main}
+  thrown in /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php on line 71
+[29-Aug-2022 06:31:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/megaagge/beta.megaadventuresintl.com/vendor/composer/../../app/Utility/Helper.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php(61): composerRequireed162d28f549a3be381b893facaa417c('21022b855e1a543...', '/home4/megaagge...')
+#1 /home4/megaagge/beta.megaadventuresintl.com/vendor/autoload.php(7): ComposerAutoloaderInited162d28f549a3be381b893facaa417c::getLoader()
+#2 /home4/megaagge/beta.megaadventuresintl.com/public/index.php(34): require('/home4/megaagge...')
+#3 {main}
+  thrown in /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php on line 71
+[29-Aug-2022 06:36:41 UTC] PHP Warning:  require(/home4/megaagge/beta.megaadventuresintl.com/vendor/composer/../../app/Utility/Helper.php): Failed to open stream: No such file or directory in /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php on line 71
+[29-Aug-2022 06:36:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/megaagge/beta.megaadventuresintl.com/vendor/composer/../../app/Utility/Helper.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php(61): composerRequireed162d28f549a3be381b893facaa417c('21022b855e1a543...', '/home4/megaagge...')
+#1 /home4/megaagge/beta.megaadventuresintl.com/vendor/autoload.php(7): ComposerAutoloaderInited162d28f549a3be381b893facaa417c::getLoader()
+#2 /home4/megaagge/beta.megaadventuresintl.com/public/index.php(34): require('/home4/megaagge...')
+#3 {main}
+  thrown in /home4/megaagge/beta.megaadventuresintl.com/vendor/composer/autoload_real.php on line 71
+[01-Sep-2022 05:22:55 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\BookingList\BannerController, because the name is already in use in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Admin/BookingList/BookingListController.php on line 0
+[01-Sep-2022 05:24:03 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\BookingList\BannerController, because the name is already in use in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Admin/BookingList/BookingListController.php on line 0
+[01-Sep-2022 05:26:08 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\BookingListController, because the name is already in use in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Admin/BookingList/BookingListController.php on line 0
+[05-Sep-2022 06:30:25 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[06-Sep-2022 10:26:31 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[06-Sep-2022 10:39:07 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[08-Sep-2022 07:28:01 UTC] PHP Fatal error:  Cannot use App\Models\Admin\Trip\TripGallery as TripGallery because the name is already in use in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Admin/Trip/TripController.php on line 27
+[11-Sep-2022 10:59:53 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[11-Sep-2022 11:04:30 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[11-Sep-2022 11:11:54 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[11-Sep-2022 11:19:06 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[11-Sep-2022 11:45:51 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[12-Sep-2022 04:32:23 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[12-Sep-2022 04:44:51 UTC] PHP Deprecated:  Optional parameter $file declared before required parameter $height is implicitly treated as a required parameter in /home4/megaagge/beta.megaadventuresintl.com/app/Support/ImageSupport.php on line 14
+[12-Sep-2022 05:33:10 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/megaagge/beta.megaadventuresintl.com/storage/framework/views/ae1e4ce41df500e850d2fcae46a072aa7c805482.php on line 16
+[19-Sep-2022 05:34:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:34:47 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:34:57 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:02 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:10 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:15 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:29 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:32 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:35:58 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:36:29 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
+[19-Sep-2022 05:36:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::cyberPrevious() in /home4/megaagge/beta.megaadventuresintl.com/app/Http/Controllers/Frontend/FrontendController.php on line 1588
